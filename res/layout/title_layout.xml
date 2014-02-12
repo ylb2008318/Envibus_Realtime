@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="@dimen/normal_padding"
+    android:layout_marginLeft="@dimen/normal_padding"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/envibusIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/normal_padding"
+        android:adjustViewBounds="true"
+        android:contentDescription="Icon"
+        android:maxHeight="36dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_launcher" />
+
+    <ImageView
+        android:id="@+id/refreshImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/normal_padding"
+        android:contentDescription="Refresh Schedule"
+        android:maxHeight="36dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_action_refresh" />
+
+</RelativeLayout>

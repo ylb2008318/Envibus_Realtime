@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="action_settings">设置</string>
+    <string name="button_get_schedule_text">获取时间表</string>
+    <string name="fragment_realtime_title_text">当前时间</string>
+    <string name="fragment_title_text">当前位置</string>
+    <string name="reserved_label_text"></string>
+    <string name="title_pager1">测试标题</string>
+    <string name="title_section1">测试页面</string>
+    <string name="title_section2">页面2</string>
+    <string name="title_section3">页面3</string>
+
+</resources>

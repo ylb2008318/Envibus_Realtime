@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/text_vertical_margin"
+    android:background="@color/lighter_gray"
+    android:rowOrderPreserved="true"
+    android:useDefaultMargins="false" >
+
+    <TextView
+        android:id="@+id/lineName"
+        style="@style/StopTextTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="left"
+        android:layout_margin="@dimen/text_vertical_margin"
+        android:minWidth="@dimen/min_line_width"
+        android:text="LineName"
+        android:textAlignment="viewStart" />
+
+    <TextView
+        android:id="@+id/destinationName"
+        style="@style/StopTextTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/lineName"
+        android:layout_marginLeft="@dimen/normal_interval_length"
+        android:maxWidth="@dimen/max_destination_width"
+        android:text="DestinationName_this_can_be_a_very_long_name" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="false"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/text_vertical_margin"
+        android:layout_marginRight="@dimen/text_vertical_margin"
+        android:minWidth="@dimen/min_delay_width"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/delayLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right" >
+
+            <TextView
+                android:id="@+id/delayConcat1"
+                style="@style/BasicTextTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="in " />
+
+            <TextView
+                android:id="@+id/delay"
+                style="@style/StopTextTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Delay" />
+
+            <TextView
+                android:id="@+id/delayConcat2"
+                style="@style/BasicTextTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" minutes" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/arriveTimeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+ 			android:gravity="right" 
+ 			android:layout_marginLeft="@dimen/text_vertical_margin"
+        	android:layout_marginRight="@dimen/text_vertical_margin" >
+            
+            <TextView
+                android:id="@+id/arriveTimeConcat1"
+                style="@style/BasicTextTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="at " />
+
+            <TextView
+                android:id="@+id/arriveTime"
+                style="@style/StopTextTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ArriveTime" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

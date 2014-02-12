@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_horizontal_margin">2dp</dimen>
+    <dimen name="text_vertical_margin">2dp</dimen>
+    <dimen name="journey_bar_height">16dp</dimen>
+    <dimen name="max_destination_width">200dip</dimen>
+    <dimen name="min_line_width">50sp</dimen>
+    <dimen name="normal_interval_length">10sp</dimen>
+    <dimen name="min_delay_width">80sp</dimen>
+    <dimen name="normal_padding">4dip</dimen>
+</resources>

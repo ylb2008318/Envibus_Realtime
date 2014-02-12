@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnvibusMap>
+	<line lineId="1" lineName="1" />
+	<line lineId="41" lineName="100" />
+	<Stop stopId="4" stopName="ADRIANA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="5" stopName="ADRIANA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2323" stopName="AIGLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2324" stopName="AIGLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2125" stopName="AIRE DE BOULES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2126" stopName="AIRE DE BOULES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="6" stopName="ALBERT CAQUOT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="7" stopName="ALBERT CAQUOT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="8" stopName="ALBERT EINSTEIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1009" stopName="ALBERT EINSTEIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1970" stopName="ALLE DES LAVANDES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1868" stopName="ALLEE DES LAVANDES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="11" stopName="ALTANA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="12" stopName="ALTANA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="740" stopName="AMADEUS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="741" stopName="AMADEUS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="744" stopName="AMADEUS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="451" stopName="AMBASSADEUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="452" stopName="AMBASSADEUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="14" stopName="AMBROISIE LAUVERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1057" stopName="AMBROISIE LAUVERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2274" stopName="AMIRAL DE GRASSE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2275" stopName="AMIRAL DE GRASSE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="453" stopName="AMPHORES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="454" stopName="AMPHORES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1098" stopName="AMPHORES 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1099" stopName="AMPHORES 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2028" stopName="ANEMONES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2451" stopName="ANEMONES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="15" stopName="ANTHALA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1000" stopName="ANTHALA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="457" stopName="ANTILLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="458" stopName="ANTILLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="16" stopName="APOLLINAIRE DESNOS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2505" stopName="APOLLINAIRE DESNOS D" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="19" stopName="ATELIERS MUNICIPAUX" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="23" stopName="AUSSEL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1091" stopName="AUSSEL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="461" stopName="AUTRICHIENS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1021" stopName="AUTRICHIENS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1869" stopName="AUX TROIS FIGUIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1965" stopName="AUX TROIS FIGUIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="27" stopName="AV. BARQUIER" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1783" stopName="AV. DE LA GABELLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2060" stopName="AV. DE LA GABELLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="892" stopName="AV. DE LA LIBERATION" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="28" stopName="AV. DE VALLAURIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1224" stopName="AV. DE VALLAURIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="29" stopName="AV. DE VERDUN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1781" stopName="AV. DES CHENES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1725" stopName="AV. DES FAUVETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1726" stopName="AV. DES FAUVETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1727" stopName="AV. DES FAUVETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1728" stopName="AV. DES FAUVETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1771" stopName="AV. DES FAUVETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="30" stopName="AV. DES PLATANES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1088" stopName="AV. DES PLATANES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="32" stopName="AV. MARECHAL REILLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="34" stopName="AV. PASTOUR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2248" stopName="BACHETTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="39" stopName="BALZAC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="40" stopName="BALZAC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="207" stopName="BARREAU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1100" stopName="BARREAU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1583" stopName="BASTIDE LONGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1584" stopName="BASTIDE LONGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="463" stopName="BASTIDES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="464" stopName="BASTIDES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1890" stopName="BASTIDES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1961" stopName="BASTIDES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1883" stopName="BATEAU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1981" stopName="BATEAU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2245" stopName="BAUME" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2246" stopName="BAUME" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1632" stopName="BAUMETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1739" stopName="BAUMETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="74" stopName="BD. BELLEVUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1115" stopName="BD. BELLEVUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1723" stopName="BD. DE LA SOURCE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1724" stopName="BD. DE LA SOURCE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2139" stopName="BEAUME GRANET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2140" stopName="BEAUME GRANET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2129" stopName="BEAUMON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2130" stopName="BEAUMON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="46" stopName="BEAUSOLEIL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1218" stopName="BEAUSOLEIL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="47" stopName="BEAUVALLON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1075" stopName="BEAUVALLON" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1585" stopName="BEAUVALLON" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="50" stopName="BEETHOVEN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="51" stopName="BEETHOVEN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="52" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="53" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1124" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1215" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="469" stopName="BELUGUES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1008" stopName="BELUGUES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="57" stopName="BENSA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1221" stopName="BENSA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="59" stopName="BIOT 3000" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="60" stopName="BIOT 3000" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2556" stopName="BIOT 3000 21" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="63" stopName="BIOT VILLAGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="64" stopName="BIOT VILLAGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="314" stopName="BLACASSE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1061" stopName="BLACASSE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1779" stopName="BLD DU CAP" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2058" stopName="BLD DU CAP" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1780" stopName="BLD ST ANTOINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2061" stopName="BLD ST ANTOINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1760" stopName="BLEU MARINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="471" stopName="BLEUETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="472" stopName="BLEUETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="65" stopName="BOIS DE VALBONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1125" stopName="BOIS DE VALBONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="66" stopName="BOIS FLEURI" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1089" stopName="BOIS FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1700" stopName="BOIS FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2214" stopName="BOIS FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="315" stopName="BOUEE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1576" stopName="BOUEE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="316" stopName="BOUILLIDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1007" stopName="BOUILLIDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2024" stopName="BRAMAFAN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="587" stopName="BREGUIERES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="824" stopName="BREGUIERES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="476" stopName="BRETONS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="477" stopName="BRETONS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="998" stopName="BRIAND" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2614" stopName="BRIAND" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1188" stopName="BRICKA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="351" stopName="BRUCS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1112" stopName="BRUCS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="382" stopName="BRUGUET" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="478" stopName="BRUISSES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="881" stopName="BRUSQUETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1062" stopName="BRUSQUETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2247" stopName="CABOTS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2452" stopName="CABOTS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1633" stopName="CAILLADES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1634" stopName="CAILLADES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1881" stopName="CALADA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1974" stopName="CALADA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1589" stopName="CAMINON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1590" stopName="CAMINON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2239" stopName="CAMPING DU SOURIRE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2240" stopName="CAMPING DU SOURIRE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1871" stopName="CAMPING LE MALVAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1960" stopName="CAMPING LE MALVAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2549" stopName="CAMPING LES PINEDES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2550" stopName="CAMPING LES PINEDES D" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2547" stopName="CAMPING MONTMEUILLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="492" stopName="CAPUCINES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="493" stopName="CAPUCINES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="494" stopName="CARDOULINES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="495" stopName="CARDOULINES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2481" stopName="CARNOT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="91" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1005" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1388" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2445" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="93" stopName="CARRIAT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1030" stopName="CARRIAT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1763" stopName="CARRIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1764" stopName="CARRIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="498" stopName="CASTAGNES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1085" stopName="CASTAGNES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="499" stopName="CASTORS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1073" stopName="CASTORS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2280" stopName="CAVALIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2281" stopName="CAVALIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1884" stopName="CENTIFOLIA" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1983" stopName="CENTIFOLIA" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="698" stopName="CENTRE COMMERCIAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="699" stopName="CENTRE COMMERCIAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2637" stopName="CENTRE COMMERCIAL Carrefour"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2104" stopName="CENTRE HELIO MARIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="100" stopName="CERAM" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="101" stopName="CERAM" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="102" stopName="CES HOPITAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1069" stopName="CES HOPITAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2325" stopName="CH. DE LA COLLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2326" stopName="CH. DE LA COLLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="118" stopName="CH. DE LA FONTANETTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1122" stopName="CH. DE LA FONTANETTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="120" stopName="CH. DE LA PIERRE DU DIABLE"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="357" stopName="CH. DE LA SALIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1017" stopName="CH. DE LA SALIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="135" stopName="CH. DE RETENAOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1066" stopName="CH. DE RETENAOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="122" stopName="CH. DE ST JULIEN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1081" stopName="CH. DE ST JULIEN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="481" stopName="CH. DE ST MAYMES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1060" stopName="CH. DE ST MAYMES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="123" stopName="CH. DE TOURREVISTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="124" stopName="CH. DE TOURREVISTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="125" stopName="CH. DES CABOTS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1121" stopName="CH. DES CABOTS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="126" stopName="CH. DES DARBOUSSIERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1711" stopName="CH. DES DARBOUSSIERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="127" stopName="CH. DES GROULES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="551" stopName="CH. DES GROULES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="128" stopName="CH. DES IMPINIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1716" stopName="CH. DES IMPINIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="129" stopName="CH. DES ONDES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1012" stopName="CH. DES ONDES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="130" stopName="CH. DES PRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1120" stopName="CH. DES PRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="131" stopName="CH. DES SOULIERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1086" stopName="CH. DES SOULIERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="132" stopName="CH. DES TAMARINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1087" stopName="CH. DES TAMARINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1755" stopName="CH. DES VALETTES 1" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2461" stopName="CH. DES VALETTES 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2462" stopName="CH. DES VALETTES 3" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2463" stopName="CH. DES VALETTES 4" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1872" stopName="CH. DU CERCLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1975" stopName="CH. DU CERCLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1773" stopName="CH. DU PRUGNON" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2332" stopName="CH. DU PRUGNON" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1873" stopName="CH. DU PUIT FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1958" stopName="CH. DU PUIT FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="997" stopName="CH. DU PUY" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1046" stopName="CH. DU PUY" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1078" stopName="CH. DU VAL BOSQUET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1079" stopName="CH. DU VAL BOSQUET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="113" stopName="CHAPELLE DES COMBES" longitude="7.088045"
+		latitude="43.602730">
+	    <itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="254" lineId="41" />
+		<itinerary destinationCode="235" lineId="21" />
+	</Stop>
+	<Stop stopId="2634" stopName="CHAPELLE DES COMBES" longitude="7.089099"
+		latitude="43.602840">
+	    <itinerary destinationCode="946" lineId="46" />
+	    <itinerary destinationCode="254" lineId="1" />
+	    <itinerary destinationCode="235" lineId="1" />
+	    <itinerary destinationCode="971" lineId="21" />
+	    <itinerary destinationCode="16" lineId="6" />
+	</Stop>
+	<Stop stopId="114" stopName="CHAPELLE ST JEAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1055" stopName="CHAPELLE ST JEAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="115" stopName="CHAPELLE ST ROCH" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1068" stopName="CHAPELLE ST ROCH" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1594" stopName="CHAPELLE ST ROCH" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="110" stopName="CHATEAU DE LA BRAGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1593" stopName="CHATEAU DE LA BRAGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1041" stopName="CHATEAU VERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1493" stopName="CHATEAU VERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="117" stopName="CHATEAUNEUF LA FERME (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="818" stopName="CHATEAUNEUF LA FERME (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1184" stopName="CHATEAUNEUF PRE DU LAC ( CG)"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="819" stopName="CHATEAUNEUF PRE DU LAC (CG)"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2265" stopName="CHATEAUNEUF VILLAGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="503" stopName="CHENES VERTS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="504" stopName="CHENES VERTS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="136" stopName="CHENONCEAU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1045" stopName="CHENONCEAU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1784" stopName="CHEVRE D'OR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2059" stopName="CHEVRE D'OR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2301" stopName="CHEZ AMEDEE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2302" stopName="CHEZ AMEDEE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2387" stopName="CICA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2388" stopName="CICA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="506" stopName="CIGALES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1938" stopName="CIGALES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="321" stopName="CIGALIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1065" stopName="CIGALIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2157" stopName="CIMETIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2158" stopName="CIMETIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="142" stopName="CIMETIERE BAS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="143" stopName="CIMETIERE BAS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2434" stopName="CIMETIERE DE LA COLLE SUR LOUP"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1597" stopName="CIMETIERE FABREGOURIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1743" stopName="CIMETIERE FABREGOURIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="144" stopName="CIMETIERE HAUT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1127" stopName="CIMETIERE HAUT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="145" stopName="CIMETIERE RABIAC" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1129" stopName="CIMETIERE RABIAC" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="146" stopName="CIMETIERE RABIAC HAUT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1042" stopName="CIMETIERE RABIAC HAUT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="147" stopName="CIMETIERE ST BERNARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1206" stopName="CIMETIERE ST BERNARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="507" stopName="CISTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1598" stopName="CITE DU SOLEIL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="151" stopName="CLAIR LOGIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1084" stopName="CLAIR LOGIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="508" stopName="CLAUSONNES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1111" stopName="CLAUSONNES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1885" stopName="CLOS DE LEOUVE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1955" stopName="CLOS DE LEOUVE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="156" stopName="CLUB MEDITERRANEE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="157" stopName="COL ST ANTOINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1217" stopName="COL ST ANTOINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2121" stopName="COLLE LONGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2122" stopName="COLLE LONGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="158" stopName="COLLEGE BERTONE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1128" stopName="COLLEGE BERTONE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1600" stopName="COLLEGE DE LA COLLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1601" stopName="COLLEGE DE LA COLLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1195" stopName="COLLEGE DE LA FONTONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2319" stopName="COLLEGE DE LA FONTONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1701" stopName="COLLEGE DE LA ROSTAGNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2110" stopName="COLLEGE DE VALBONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="169" stopName="COLLEGE DU ROURET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1599" stopName="COLLEGE ROMEE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="512" stopName="COLLINES DE BIOT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1082" stopName="COLLINES DE BIOT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2127" stopName="COLOMBIER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2128" stopName="COLOMBIER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1226" stopName="COMMANDANT MARIA" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="171" stopName="CONCORDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1050" stopName="CONCORDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="325" stopName="CONSTANCE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1076" stopName="CONSTANCE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="172" stopName="CONSUL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1029" stopName="CONSUL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="516" stopName="CONTREBANDIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2447" stopName="CONTREBANDIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1948" stopName="COOPERATIVE AGRICOLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1949" stopName="COOPERATIVE AGRICOLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="393" stopName="CORAIL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="394" stopName="CORAIL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2287" stopName="CORALINES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2288" stopName="CORALINES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="519" stopName="COUGOULINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="520" stopName="COUGOULINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="176" stopName="COURBET" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1554" stopName="COURCETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1555" stopName="COURCETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1756" stopName="COURMETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2460" stopName="COURMETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2441" stopName="COUTELIER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2442" stopName="COUTELIER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2329" stopName="CRECHE BADINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2330" stopName="CRECHE BADINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1105" stopName="CRECHE DES TERRASSES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1106" stopName="CRECHE DES TERRASSES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="182" stopName="CROIX ROUGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1037" stopName="CROIX ROUGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="395" stopName="CROUTON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1018" stopName="CROUTON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="184" stopName="DAMES BLANCHES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="185" stopName="DAMES BLANCHES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2475" stopName="DARBOUSSIERES 1" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2476" stopName="DARBOUSSIERES 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2308" stopName="DAVID" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2309" stopName="DAVID" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1950" stopName="DEFOUSSANT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1906" stopName="DEFOUSSAT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1635" stopName="DEUX RIVES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1740" stopName="DEUX RIVES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1" stopName="DEUXIEME AVENUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1074" stopName="DEUXIEME AVENUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="999" stopName="DIABLES BLEUS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="193" stopName="ECOLE DE LA TOUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1176" stopName="ECOLE DE LA TOUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="195" stopName="ECOLE DU CAP" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1013" stopName="ECOLE DU CAP" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="197" stopName="ECOLE F. MISTRAL (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1177" stopName="ECOLE F. MISTRAL (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="200" stopName="ECOLE J. MOULIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="201" stopName="ECOLE J. MOULIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1602" stopName="ECOLE LANGEVIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2479" stopName="ECOLE ST MARIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="203" stopName="ECOLE ST MAYMES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1056" stopName="ECOLE ST MAYMES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="204" stopName="EDEN PARK" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1019" stopName="EDEN PARK" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="206" stopName="EDEN ROC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="205" stopName="EDEN ROC (TERMINUS DE LA GAROUPE)"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="161" stopName="EGANAUDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="162" stopName="EGANAUDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2546" stopName="EGLISE DE LA COLLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1603" stopName="EGLISE STE ANNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="209" stopName="EGLISE STE JEANNE D'ARC" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="210" stopName="EGLISE STE JEANNE D'ARC" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2544" stopName="EL SOL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="528" stopName="EMAUX" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="211" stopName="EMPEL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1016" stopName="EMPEL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="213" stopName="ESPACES DE SOPHIA" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="214" stopName="ESPACES DE SOPHIA" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1636" stopName="ESPERES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1637" stopName="ESPERES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2114" stopName="ESPERES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2115" stopName="ESPERES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1891" stopName="ESPINETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1952" stopName="ESPINETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="624" stopName="ESTEREL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="625" stopName="ESTEREL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="537" stopName="EUCALYPTUS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1123" stopName="EUCALYPTUS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2057" stopName="EUCALYPTUS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="538" stopName="EUCALYPTUS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="536" stopName="EUCALYPTUS 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1058" stopName="EUCALYPTUS 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="219" stopName="F. LEGER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="220" stopName="F. LEGER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="217" stopName="FABRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="330" stopName="FARIGOULE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1232" stopName="FARIGOULE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1639" stopName="FAUVETTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1730" stopName="FAUVETTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2286" stopName="FERRAYONNES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="396" stopName="FLAUBERT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1034" stopName="FLAUBERT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="542" stopName="FLEURS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="543" stopName="FLEURS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="223" stopName="FOCH" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2235" stopName="FONDATION MAEGHT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2236" stopName="FONDATION MAEGHT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="227" stopName="FONT DE CINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1229" stopName="FONT DE CINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1604" stopName="FONT DE CUBERTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="230" stopName="FONT NEUVE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="231" stopName="FONT NEUVE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="331" stopName="FONTAINE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="332" stopName="FONTAINE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1027" stopName="FONTMERLE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1028" stopName="FONTMERLE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1874" stopName="FORET DES SALETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1986" stopName="FORET DES SALETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2234" stopName="FORT CARRE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="234" stopName="FOURNAS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1094" stopName="FOURNAS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="235" stopName="FOYER LE ROC" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2626" stopName="FOYER LE ROC 1" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="236" stopName="FOYER P. MERLI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="237" stopName="FOYER P. MERLI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2253" stopName="FRANCE OUTRE MER" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1606" stopName="FRERE GARBERO" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2318" stopName="FRERE GARBERO" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1892" stopName="FUMERATES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1971" stopName="FUMERATES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="265" stopName="G. POMPIDOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="266" stopName="G. POMPIDOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2232" stopName="G. POMPIDOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1552" stopName="GABELLE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1553" stopName="GABELLE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="244" stopName="GALION" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1011" stopName="GALION" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="246" stopName="GARBEJAIRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="247" stopName="GARBEJAIRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1875" stopName="GARDETTES SINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1969" stopName="GARDETTES SINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="31" stopName="GARE ROUTIERE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="249" stopName="GARE ROUTIERE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="250" stopName="GARE ROUTIERE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2607" stopName="GARE ROUTIERE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2608" stopName="GARE ROUTIERE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2609" stopName="GARE ROUTIERE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2610" stopName="GARE ROUTIERE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="253" stopName="GARE ROUTIERE VALBONNE SOPHIA ANTIPOLIS"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="254" stopName="GARE ROUTIERE VALBONNE SOPHIA ANTIPOLIS"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2552" stopName="GARE ROUTIERE VALBONNE SOPHIA ANTIPOLIS"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2553" stopName="GARE ROUTIERE VALBONNE SOPHIA-ANTIPOLIS"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1174" stopName="GARE SNCF D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2424" stopName="GARE SNCF D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="62" stopName="GARE SNCF DE BIOT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="259" stopName="GARE SNCF DE BIOT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1587" stopName="GARE SNCF DE BIOT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2557" stopName="GARE SNCF DE BIOT D" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="257" stopName="GARE SNCF DE CANNES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2514" stopName="GARE SNCF DE CANNES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1608" stopName="GARE SNCF DE GOLFE JUAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2509" stopName="GARE SNCF DE GOLFE JUAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="261" stopName="GARE SNCF JUAN LES PINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2510" stopName="GARE SNCF JUAN LES PINS A"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1736" stopName="GARE SNCF VILLENEUVE LOUBET"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1737" stopName="GARE SNCF VILLENEUVE LOUBET"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="334" stopName="GAROUPE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="762" stopName="GAROUPE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2543" stopName="GENERAL FERRIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2545" stopName="GENERAL FERRIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="548" stopName="GENETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="269" stopName="GIORDANO" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1230" stopName="GIORDANO" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1876" stopName="GIRATOIRE ST ROCH" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1556" stopName="GLACIERE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1557" stopName="GLACIERE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="397" stopName="GOLF" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="398" stopName="GOLF" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2025" stopName="GOURDON VILLAGE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="276" stopName="GOYA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1035" stopName="GOYA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="277" stopName="GRAND BOIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1223" stopName="GRAND BOIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1774" stopName="GRAND MARAGNAC" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1775" stopName="GRAND MARAGNAC" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2111" stopName="GRANGE RIMADE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2112" stopName="GRANGE RIMADE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="281" stopName="GROS PINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1712" stopName="GROS PINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1703" stopName="GROULES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1704" stopName="GROULES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="692" stopName="GUILLABERT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1010" stopName="GUILLABERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2640" stopName="GUILLAUMONT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2116" stopName="HAMEAUX DU SOLEIL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2117" stopName="HAMEAUX DU SOLEIL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2464" stopName="HAMEAUX DU SOLEIL (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="288" stopName="HAUTES BREGUIERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="556" stopName="HAUTS D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1613" stopName="HAUTS DE VALBONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1731" stopName="HAUTS DE VALBONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1718" stopName="HAUTS DE VALLAURIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2289" stopName="HAUTS DE VAUGRENIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="626" stopName="HERMITAGE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="627" stopName="HERMITAGE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1896" stopName="HIBISCUS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1982" stopName="HIBISCUS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="282" stopName="HOPITAL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="283" stopName="HOPITAL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1109" stopName="HOPITAL DE LA FONTONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1785" stopName="HOPITAL DE LA FONTONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2555" stopName="HOPITAL DE LA FONTONNE A" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1612" stopName="HOTEL DE VILLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1732" stopName="HOTEL DE VILLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1777" stopName="HOTEL DE VILLE D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1614" stopName="I.U.P" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2261" stopName="I.U.P" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="628" stopName="ILETTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="629" stopName="ILETTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1878" stopName="IMPASSE DES FIGUIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1959" stopName="IMPASSE DES FIGUIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="561" stopName="IMPINIERS CEDRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1714" stopName="IMPINIERS CEDRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="562" stopName="IMPINIERS PINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1713" stopName="IMPINIERS PINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="296" stopName="INRIA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="297" stopName="INRIA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="563" stopName="ISSARDS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1083" stopName="ISSARDS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2437" stopName="ISSARDS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="298" stopName="IUT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2398" stopName="JARDIN DE L'AMIRAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2399" stopName="JARDIN DE L'AMIRAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2423" stopName="JARDIN DE LA GARE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2159" stopName="JARDIN DES DECADES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2160" stopName="JARDIN DES DECADES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="300" stopName="JARDIN PAULINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="301" stopName="JARDIN PAULINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="303" stopName="JEUX DE BOULES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1036" stopName="JEUX DE BOULES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="846" stopName="JOFFRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="564" stopName="JONQUETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="565" stopName="JONQUETS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="566" stopName="JONQUILLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2249" stopName="KINDIA PARK" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2250" stopName="KINDIA PARK" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2448" stopName="L'ABREVOIR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2266" stopName="L'ESCURE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2267" stopName="L'ESCURE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2482" stopName="L.E.P. DES COTEAUX" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="307" stopName="LA BAISSE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1175" stopName="LA BAISSE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2435" stopName="LA COLLE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2436" stopName="LA COLLE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2465" stopName="LA CROIX (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2299" stopName="LA FONTAINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2300" stopName="LA FONTAINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2450" stopName="LA FONTONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1702" stopName="LA FONTONNE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2641" stopName="LA JARRERIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="341" stopName="LA PAILLOTTE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1182" stopName="LA PAILLOTTE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2149" stopName="LA POSTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2150" stopName="LA POSTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2458" stopName="LA SAREE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2459" stopName="LA SAREE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2433" stopName="LA SOUQUEE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2298" stopName="LA TOUR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="372" stopName="LA VISTA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1220" stopName="LA VISTA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="375" stopName="LAS PALMAS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1113" stopName="LAS PALMAS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2312" stopName="LE BOSQUET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2313" stopName="LE BOSQUET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2304" stopName="LE PLANET" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2305" stopName="LE PLANET" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2316" stopName="LE PLANTIER" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2317" stopName="LE PLANTIER" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2408" stopName="LE PONT COLONIAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2409" stopName="LE PONT COLONIAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2276" stopName="LE RIOU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2277" stopName="LE RIOU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="429" stopName="LE SAUT (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="430" stopName="LE SAUT (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2134" stopName="LE STADE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="571" stopName="LENTISQUES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="447" stopName="LERINA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2474" stopName="LES ARNOUX (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2278" stopName="LES BOSQUETS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2279" stopName="LES BOSQUETS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2472" stopName="LES CAILLADES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2473" stopName="LES CAILLADES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2468" stopName="LES CAMPONS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2469" stopName="LES CAMPONS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="510" stopName="LES COLLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="511" stopName="LES COLLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2432" stopName="LES COTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1893" stopName="LES FUMERATES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1894" stopName="LES FUMERATES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1181" stopName="LES GIBOUS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2029" stopName="LES GIBOUS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1183" stopName="LES MOUSQUETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1646" stopName="LES MOUSQUETTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2294" stopName="LES ORANGERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2295" stopName="LES ORANGERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2470" stopName="LES PAS DE SENES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2471" stopName="LES PAS DE SENES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1179" stopName="LES TRUCS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1180" stopName="LES TRUCS (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2306" stopName="LES VERGERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2307" stopName="LES VERGERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="572" stopName="LOGIS ST CLAUDE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1002" stopName="LOGIS ST CLAUDE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2394" stopName="LOU PARADOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2395" stopName="LOU PARADOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1625" stopName="LOUBET MARINA (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1738" stopName="LOUBET MARINA (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="573" stopName="LUCIOLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="574" stopName="LUCIOLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="639" stopName="LUNA PARK" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1653" stopName="LUONA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1654" stopName="LUONA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="642" stopName="LYCEE AUDIBERTI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="643" stopName="LYCEE AUDIBERTI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2480" stopName="LYCEE BRISTOL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2500" stopName="LYCEE DE VALBONNE 1" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="646" stopName="LYCEE HORTICOLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="647" stopName="LYCEE HORTICOLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2483" stopName="LYCEE JULES FERRY" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="648" stopName="LYCEE LEONARD DE VINCI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2515" stopName="LYCEE LEONARD DE VINCI D" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="651" stopName="MACARONS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2133" stopName="MAIRIE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1072" stopName="MAIRIE ANNEXE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2251" stopName="MAIRIE ANNEXE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2252" stopName="MAIRIE ANNEXE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1655" stopName="MAIRIE DE LA COLLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1656" stopName="MAIRIE DE LA COLLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="656" stopName="MAISON DE RETRAITE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1222" stopName="MAISON DE RETRAITE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="658" stopName="MAISON DU COEUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="659" stopName="MAISON DU COEUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1187" stopName="MAISON DU TOURISME" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2314" stopName="MAISON SICARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2315" stopName="MAISON SICARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="664" stopName="MAIZIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="665" stopName="MAIZIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1744" stopName="MARDARIC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1745" stopName="MARDARIC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="668" stopName="MAREPOLIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1044" stopName="MAREPOLIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="671" stopName="MARINELAND" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1657" stopName="MARINELAND" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2145" stopName="MARTELS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2146" stopName="MARTELS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1038" stopName="MARTYRS DE LA RESISTANCE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1039" stopName="MARTYRS DE LA RESISTANCE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1897" stopName="MAS DES AMANDIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1978" stopName="MAS DES AMANDIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1886" stopName="MAS DES SERRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1964" stopName="MAS DES SERRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1887" stopName="MAS DES VIGNES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1976" stopName="MAS DES VIGNES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="672" stopName="MAYERLING" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1022" stopName="MAYERLING" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="943" stopName="MESANGES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2290" stopName="MESSUGUES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2291" stopName="MESSUGUES (VILLENEUVE)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="578" stopName="MEXICAINES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1043" stopName="MEXICAINES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="676" stopName="MIGNONETTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1096" stopName="MIGNONETTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1031" stopName="MIMOSAS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1032" stopName="MIMOSAS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="678" stopName="MONASTERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1715" stopName="MONASTERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1227" stopName="MONOPRIX" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="681" stopName="MONT ST JEAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1051" stopName="MONT ST JEAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2466" stopName="MONTFORT (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2467" stopName="MONTFORT (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1658" stopName="MONTMEUILLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1659" stopName="MONTMEUILLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2147" stopName="MOULINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2148" stopName="MOULINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2056" stopName="MOUNIER (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="689" stopName="MOYENNES BREGUIERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="581" stopName="MURIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="582" stopName="MURIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="583" stopName="MYRTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1117" stopName="MYRTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="584" stopName="NIELLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1015" stopName="NIELLES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2141" stopName="NOTRE DAME" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2142" stopName="NOTRE DAME" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="697" stopName="NOVA ANTIPOLIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1003" stopName="NOVA ANTIPOLIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2535" stopName="OFFICE DU TOURISME A" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="632" stopName="OLIVAIE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="633" stopName="OLIVAIE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1902" stopName="OLIVIER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1956" stopName="OLIVIER" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="585" stopName="OLIVIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="586" stopName="OLIVIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1178" stopName="OPIO SAN PEYRE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1660" stopName="OPIO SAN PEYRE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1898" stopName="ORANGERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1972" stopName="ORANGERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="591" stopName="OREADES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="592" stopName="OREADES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="340" stopName="PAGANE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1130" stopName="PAGANE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="705" stopName="PALAIS DES CONGRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="706" stopName="PALAIS DES CONGRES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="707" stopName="PANORAMA CONSTANCE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1077" stopName="PANORAMA CONSTANCE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="406" stopName="PARADIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1219" stopName="PARADIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2310" stopName="PARADIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2311" stopName="PARADIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1243" stopName="PARC DE VAUGRENIER (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1733" stopName="PARC DE VAUGRENIER (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="710" stopName="PARC ELVINA" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1053" stopName="PARC ELVINA" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1661" stopName="PARC ICARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1748" stopName="PARC ICARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="233" stopName="PARC RELAIS DU FORT CARRE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2217" stopName="PARKING DE LA BAUME" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2225" stopName="PARKING DE LA BAUME" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="717" stopName="PARKING DU PONTEIL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1189" stopName="PARKING DULYS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="721" stopName="PASSERELLE SNCF" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1126" stopName="PASSERELLE SNCF" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2612" stopName="PASSERELLE SNCF" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2613" stopName="PASSERELLE SNCF" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2625" stopName="PASSERELLE SNCF" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1103" stopName="PENSEES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1104" stopName="PENSEES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1664" stopName="PEPINIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1665" stopName="PEPINIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="726" stopName="PEPINIERES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="727" stopName="PETIT FOUR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2331" stopName="PETIT FOUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1619" stopName="PETITE FERME" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1729" stopName="PETITE FERME" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1666" stopName="PEYNIBLOU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1667" stopName="PEYNIBLOU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1905" stopName="PEYRE LONG" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1953" stopName="PEYRE LONG" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="595" stopName="PHALENES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1939" stopName="PHALENES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2449" stopName="PHALENES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="408" stopName="PHARE DU CAP" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1014" stopName="PHARE DU CAP" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="732" stopName="PICASSO" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1211" stopName="PICASSO" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="735" stopName="PIERREFEU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="736" stopName="PIERREFEU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2137" stopName="PIGNATONS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2138" stopName="PIGNATONS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="737" stopName="PIMEAU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1059" stopName="PIMEAU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="738" stopName="PIN DORE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="739" stopName="PIN DORE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="742" stopName="PIN MONTARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="410" stopName="PIOL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1628" stopName="PIOL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2633" stopName="PISCINE VALLAURIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="747" stopName="PLACE BARNAUD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="748" stopName="PLACE BERMOND" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="42" stopName="PLACE CAVASSE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="760" stopName="PLACE CAVASSE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2519" stopName="PLACE DE GAULLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2520" stopName="PLACE DE GAULLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2534" stopName="PLACE DE GAULLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="251" stopName="PLACE DE LA LIBERATION" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="255" stopName="PLACE DE LA LIBERATION" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2151" stopName="PLACE DU ROURET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2152" stopName="PLACE DU ROURET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="755" stopName="PLACE JEAN AUDE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2551" stopName="PLACE JEAN AUDE A" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2516" stopName="PLACE LISNARD 1" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1907" stopName="PLACE ST MICHEL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1954" stopName="PLACE ST MICHEL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="763" stopName="PLAGE DE LA SALIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="766" stopName="PLAGE DE LA SALIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2219" stopName="PLAGE DE LA SALIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2227" stopName="PLAGE PASCALIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1190" stopName="PLAGE PUBLIQUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2135" stopName="PLAN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2136" stopName="PLAN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1648" stopName="PLANS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1742" stopName="PLANS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1025" stopName="PLATEAU FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1026" stopName="PLATEAU FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2131" stopName="PLATEAU FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2132" stopName="PLATEAU FLEURI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="941" stopName="PLEIN SUD" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2320" stopName="PLEIN SUD" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2292" stopName="POMPIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2293" stopName="POMPIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1673" stopName="PONT DE LA BRAGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1674" stopName="PONT DE LA BRAGUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1909" stopName="PONT DE POUNCHOUNIERE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1963" stopName="PONT DE POUNCHOUNIERE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1707" stopName="PONT DU LOUP (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2033" stopName="PONT DU LOUP (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="792" stopName="PONT DULYS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="793" stopName="PONT DULYS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="796" stopName="PONT MURATORE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="797" stopName="PONT MURATORE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="798" stopName="PONT NEUF" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1095" stopName="PONT NEUF" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="799" stopName="PONT ROMAIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="800" stopName="PONT ROMAIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2231" stopName="PORT C. RAYON" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="805" stopName="PORT DE LA SALIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="807" stopName="PORT DE LA SALIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1705" stopName="PORT VAUBAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="820" stopName="PORTE MARINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1720" stopName="POSTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2284" stopName="POSTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2285" stopName="POSTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="415" stopName="POUDEIRAC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="416" stopName="POUDEIRAC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1911" stopName="PRE DU BAR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1979" stopName="PRE DU BAR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2155" stopName="PRINCES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2156" stopName="PRINCES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="417" stopName="PRINTEMPS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="418" stopName="PRINTEMPS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="822" stopName="PUISSANTON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="823" stopName="QUATRE CHEMINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="825" stopName="QUATRE CHEMINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="826" stopName="QUATRE CHEMINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="829" stopName="RABIAC ESTAGNOL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="830" stopName="RABIAC ESTAGNOL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2102" stopName="RASTINES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2103" stopName="RASTINES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2439" stopName="RASTINES / VAL BOSQUET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2440" stopName="RASTINES / VAL BOSQUET" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2406" stopName="REGENCE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2407" stopName="REGENCE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2327" stopName="REGENT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2328" stopName="REGENT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="20" stopName="RELAIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="21" stopName="RELAIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="834" stopName="RETENAOU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1067" stopName="RETENAOU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="835" stopName="RETENAOU BRUSQUETS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1064" stopName="RETENAOU BRUSQUETS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="836" stopName="RICHELIEU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2143" stopName="RIGAMELS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2144" stopName="RIGAMELS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="837" stopName="RIQUEBONNE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1214" stopName="RIQUEBONNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1592" stopName="RIVES DU LOUP (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="352" stopName="ROBERTE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1049" stopName="ROCHAT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="838" stopName="ROI SOLEIL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1052" stopName="ROI SOLEIL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="839" stopName="ROMARINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="840" stopName="ROMARINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1192" stopName="ROMARINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2321" stopName="ROMARINS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1912" stopName="ROME" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1977" stopName="ROME" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="599" stopName="ROSES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="600" stopName="ROSES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2352" stopName="ROSES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2353" stopName="ROSES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="570" stopName="ROSES DES VENTS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="847" stopName="ROSES DES VENTS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="848" stopName="ROSSIGNOL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="849" stopName="ROSSIGNOL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="355" stopName="ROSTAGNE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="356" stopName="ROSTAGNE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1930" stopName="ROUGUIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1980" stopName="ROUGUIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="407" stopName="ROUTE DE ST JEAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1054" stopName="ROUTE DE ST JEAN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2062" stopName="RP DE LA FARIGOULE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1678" stopName="RP DES ARNOUX" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1749" stopName="RP DES ARNOUX" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="843" stopName="RP DES CHAPPES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="844" stopName="RP DES CHAPPES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="853" stopName="RUBAN BLEU" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="856" stopName="RUE DE LA REPUBLIQUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="858" stopName="RUE F. MISTRAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="857" stopName="RUE FONTVIELLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="860" stopName="RUE LACAN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1186" stopName="RUE PASTEUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="862" stopName="RUE PAULINE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2385" stopName="Route des Cr�tes" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2386" stopName="Route des Cr�tes" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1204" stopName="SAINT BERNARD MARTEL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1205" stopName="SAINT BERNARD MARTEL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1899" stopName="SALETTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1984" stopName="SALETTES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="889" stopName="SAN PEYRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1216" stopName="SAN PEYRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2438" stopName="SANS NOM" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2457" stopName="SANS NOM" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="890" stopName="SARDOUX" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1225" stopName="SARDOUX" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="358" stopName="SARRAZINE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="891" stopName="SARRAZINE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="604" stopName="SEMBOULES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="605" stopName="SEMBOULES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1900" stopName="SERRES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1966" stopName="SERRES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="432" stopName="SOLEIL D'OR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1033" stopName="SOLEIL D'OR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="897" stopName="SOPHIE LAFFITE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="898" stopName="SOPHIE LAFFITE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2272" stopName="SORBIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2273" stopName="SORBIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="899" stopName="SPACE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1231" stopName="SPACE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2119" stopName="SPARCOS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2120" stopName="SPARCOS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="900" stopName="SPRING LAND" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="901" stopName="SPRING LAND" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="951" stopName="SQUARE CERUTTI" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1684" stopName="SQUARE DE GAULLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1746" stopName="SQUARE DE GAULLE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1685" stopName="SQUARE DULYS" longitude="7.103423"
+		latitude="43.572294">
+		<itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="254" lineId="41" />
+	</Stop>
+	<Stop stopId="2425" stopName="SQUARE DULYS" longitude="7.103651"
+		latitude="43.5722">
+		<itinerary destinationCode="235" lineId="1" />
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="1687" stopName="SQUARE ESCALIER (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2037" stopName="SQUARE ESCALIER (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2101" stopName="SQUARE GARINO" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="907" stopName="SQUARE NABONNAND" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1097" stopName="SQUARE NABONNAND" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1688" stopName="ST ANDRIEU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1689" stopName="ST ANDRIEU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2270" stopName="ST ANDRIEUX" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2271" stopName="ST ANDRIEUX" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="871" stopName="ST BERNARD" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1070" stopName="ST BERNARD" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1790" stopName="ST BERNARD MARTEL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1916" stopName="ST ETIENNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1973" stopName="ST ETIENNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2638" stopName="ST ETIENNE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2639" stopName="ST ETIENNE (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1191" stopName="ST FRANCOIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2322" stopName="ST FRANCOIS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1683" stopName="ST GEORGES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1747" stopName="ST GEORGES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="877" stopName="ST HONORAT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="433" stopName="ST JEAN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1023" stopName="ST JEAN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="879" stopName="ST MAYMES HAUT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1063" stopName="ST MAYMES HAUT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1550" stopName="ST MAYMES VIEUX BRUSQUETS"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1551" stopName="ST MAYMES VIEUX BRUSQUETS"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="882" stopName="ST PHILIPPE-LES CHAPPES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="883" stopName="ST PHILIPPE-LES CHAPPES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="884" stopName="ST PIERRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="885" stopName="ST PIERRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2153" stopName="ST PONS MAIRIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2154" stopName="ST PONS MAIRIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1101" stopName="STADE AUVERGNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1102" stopName="STADE AUVERGNE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2163" stopName="STADE DE ROQUEFORT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="434" stopName="STADE DES 3 MOULINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1006" stopName="STADE DES 3 MOULINS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="910" stopName="STADE LEON CHABERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="912" stopName="STADE NAUTIQUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="913" stopName="STADE NAUTIQUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1936" stopName="STE CLAIRE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1967" stopName="STE CLAIRE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2229" stopName="STELE NAPOLEON" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="917" stopName="SUPER ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2511" stopName="SUPER ANTIBES D" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1901" stopName="TAMARINIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1957" stopName="TAMARINIERS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2396" stopName="TAMARIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2397" stopName="TAMARIS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="431" stopName="TANANARIVE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="608" stopName="TANANARIVE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="921" stopName="TAPIS VERT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1212" stopName="TAPIS VERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1093" stopName="TAPIS VERT CLEMENCEAU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="280" stopName="TEMPLIERS" longitude="7.073901" latitude="43.617373"></Stop>
+	<Stop stopId="609" stopName="TEMPLIERS" longitude="7.073131" latitude="43.616868">
+	    <itinerary destinationCode="453" lineId="1" />
+	    <itinerary destinationCode="643" lineId="41" />
+	</Stop>
+	<Stop stopId="2233" stopName="TENNIS COURCETTES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1107" stopName="TERRASSES D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1108" stopName="TERRASSES D'ANTIBES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="611" stopName="TERRES BLANCHES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1040" stopName="TERRES BLANCHES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="612" stopName="TERRIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="613" stopName="TERRIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2228" stopName="THEATRE DE LA MER" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="615" stopName="TILLEULS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="616" stopName="TILLEULS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1734" stopName="TOURISTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1735" stopName="TOURISTES (CG)" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="365" stopName="TRADELIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1020" stopName="TRADELIERE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1759" stopName="TRANSFORMATEUR" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="442" stopName="TRIANON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="443" stopName="TRIANON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2162" stopName="TROIS FEUILLETS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="937" stopName="USINE ELECTRIQUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1256" stopName="USINE ELECTRIQUE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2268" stopName="USINE MANE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2269" stopName="USINE MANE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="945" stopName="VAL D'AZUR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="946" stopName="VAL D'AZUR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="952" stopName="VAL D'OR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1024" stopName="VAL D'OR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1692" stopName="VAL D'OR" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1761" stopName="VAL DE CUBERTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1762" stopName="VAL DE CUBERTE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1693" stopName="VAL MARTIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1694" stopName="VAL MARTIN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="958" stopName="VALBONNE VILLAGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2507" stopName="VALBONNE VILLAGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2454" stopName="VALETTES 1" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2455" stopName="VALETTES 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2456" stopName="VALETTES 3" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1757" stopName="VALETTES 4" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1888" stopName="VALLON ROUGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1962" stopName="VALLON ROUGE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="959" stopName="VALLON VERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1001" stopName="VALLON VERT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2113" stopName="VANADE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2118" stopName="VANADE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2123" stopName="VAUGAILLERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2124" stopName="VAUGAILLERES" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="962" stopName="VAUTRIN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1695" stopName="VAUTRIN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="964" stopName="VAUTRIN BAS" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="367" stopName="VERONIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="369" stopName="VERONIERE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2221" stopName="VERRERIES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="1919" stopName="VERSAILLE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2643" stopName="VERSAILLE 2" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2644" stopName="VERSAILLE A" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1968" stopName="VIEILLE BERGERIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1882" stopName="VIELLE BERGERIE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1719" stopName="VIEUX CIMETIERE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2230" stopName="VIEUX PORT" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="971" stopName="VILLA CHRETIEN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1071" stopName="VILLA CHRETIEN" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2296" stopName="VILLAGE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2297" stopName="VILLAGE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2222" stopName="VILLAGE FAMILLIAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2226" stopName="VILLAGE FAMILLIAL" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2282" stopName="VILLENEUVE LOUBET VILLAGE"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2283" stopName="VILLENEUVE LOUBET VILLAGE"
+		longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="980" stopName="VILMORIN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2548" stopName="VVF" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="981" stopName="WEISWEILLER" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="982" stopName="WEISWEILLER" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="2521" stopName="WILSON GABAYE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1721" stopName="ZAINE BASSE" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="985" stopName="ZAINE RETENAOU" longitude="0.0"
+		latitude="0.0"></Stop>
+	<Stop stopId="1207" stopName="ZAINE RETENAOU" longitude="0.0"
+		latitude="0.0"></Stop>
+
+</EnvibusMap>

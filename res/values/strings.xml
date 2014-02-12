@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Envibus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Test Page</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_pager1">TestTitle</string>
+    <string name="fragment_title_text">Current Position</string>
+    <string name="button_get_schedule_text">get Schedule</string>
+    <string name="Schedule">fragment_realtime_title_text</string>
+    <string name="fragment_realtime_title_text">Current Time</string>
+    <string name="reserved_label_text">reserved to show the content</string>
+    <color name="warning_color">#FF9D00</color>
+    <color name="error_color">#FA0A2A</color>
+	<color name="green_light_color">#A5D70D</color>
+	<color name="light_gray">#C0C0C0</color>
+	<color name="lighter_gray">#E0E0E0</color>
+	<color name="light_grayEFEFEF">#EFEFEF</color>
+	<color name="blue">#1cace2</color>
+</resources>
