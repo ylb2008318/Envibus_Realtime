@@ -8,16 +8,19 @@
 package com.ylb2008318.envibus_realtime;
 
 public final class R {
+    public static final class anim {
+        public static final int tip=0x7f040000;
+    }
     public static final class attr {
     }
     public static final class color {
-        public static final int blue=0x7f070006;
-        public static final int error_color=0x7f070001;
-        public static final int green_light_color=0x7f070002;
-        public static final int light_gray=0x7f070003;
-        public static final int light_grayEFEFEF=0x7f070005;
-        public static final int lighter_gray=0x7f070004;
-        public static final int warning_color=0x7f070000;
+        public static final int blue=0x7f080006;
+        public static final int error_color=0x7f080001;
+        public static final int green_light_color=0x7f080002;
+        public static final int light_gray=0x7f080003;
+        public static final int light_grayEFEFEF=0x7f080005;
+        public static final int lighter_gray=0x7f080004;
+        public static final int warning_color=0x7f080000;
     }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
@@ -26,49 +29,49 @@ public final class R {
          screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
     
          */
-        public static final int activity_horizontal_margin=0x7f060000;
-        public static final int activity_vertical_margin=0x7f060001;
-        public static final int journey_bar_height=0x7f060004;
-        public static final int max_destination_width=0x7f060005;
-        public static final int min_delay_width=0x7f060008;
-        public static final int min_line_width=0x7f060006;
-        public static final int normal_interval_length=0x7f060007;
-        public static final int normal_padding=0x7f060009;
-        public static final int text_horizontal_margin=0x7f060002;
-        public static final int text_vertical_margin=0x7f060003;
+        public static final int activity_horizontal_margin=0x7f070000;
+        public static final int activity_vertical_margin=0x7f070001;
+        public static final int journey_bar_height=0x7f070004;
+        public static final int max_destination_width=0x7f070005;
+        public static final int min_delay_width=0x7f070008;
+        public static final int min_line_width=0x7f070006;
+        public static final int normal_interval_length=0x7f070007;
+        public static final int normal_padding=0x7f070009;
+        public static final int text_horizontal_margin=0x7f070002;
+        public static final int text_vertical_margin=0x7f070003;
     }
     public static final class drawable {
         public static final int ic_action_refresh=0x7f020000;
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a001a;
-        public static final int arriveTime=0x7f0a0016;
-        public static final int arriveTimeConcat1=0x7f0a0015;
-        public static final int arriveTimeLayout=0x7f0a0014;
-        public static final int currentTimeTextView1=0x7f0a0008;
-        public static final int currentTimeTitleText=0x7f0a0007;
-        public static final int delay=0x7f0a0012;
-        public static final int delayConcat1=0x7f0a0011;
-        public static final int delayConcat2=0x7f0a0013;
-        public static final int delayLayout=0x7f0a0010;
-        public static final int destinationName=0x7f0a000f;
-        public static final int envibusIcon=0x7f0a0018;
-        public static final int lineName=0x7f0a000e;
-        public static final int linearLayout_schedule=0x7f0a000a;
-        public static final int linearLayout_schedule_display=0x7f0a000b;
-        public static final int pager=0x7f0a0000;
-        public static final int pager_title_strip=0x7f0a0001;
-        public static final int refreshImage=0x7f0a0019;
-        public static final int scrollView1=0x7f0a0009;
-        public static final int spinner_stop=0x7f0a0006;
-        public static final int statusCode=0x7f0a0017;
-        public static final int stopConcat1=0x7f0a0003;
-        public static final int stopConcat2=0x7f0a0005;
-        public static final int stopId=0x7f0a0004;
-        public static final int stopName=0x7f0a0002;
-        public static final int switch1=0x7f0a000c;
-        public static final int textViewTitle=0x7f0a000d;
+        public static final int action_settings=0x7f0b001a;
+        public static final int arriveTime=0x7f0b0016;
+        public static final int arriveTimeConcat1=0x7f0b0015;
+        public static final int arriveTimeLayout=0x7f0b0014;
+        public static final int currentTimeTextView1=0x7f0b0008;
+        public static final int currentTimeTitleText=0x7f0b0007;
+        public static final int delay=0x7f0b0012;
+        public static final int delayConcat1=0x7f0b0011;
+        public static final int delayConcat2=0x7f0b0013;
+        public static final int delayLayout=0x7f0b0010;
+        public static final int destinationName=0x7f0b000f;
+        public static final int envibusIcon=0x7f0b0018;
+        public static final int lineName=0x7f0b000e;
+        public static final int linearLayout_schedule=0x7f0b000a;
+        public static final int linearLayout_schedule_display=0x7f0b000b;
+        public static final int pager=0x7f0b0000;
+        public static final int pager_title_strip=0x7f0b0001;
+        public static final int refreshImage=0x7f0b0019;
+        public static final int scrollView1=0x7f0b0009;
+        public static final int spinner_stop=0x7f0b0006;
+        public static final int statusCode=0x7f0b0017;
+        public static final int stopConcat1=0x7f0b0003;
+        public static final int stopConcat2=0x7f0b0005;
+        public static final int stopId=0x7f0b0004;
+        public static final int stopName=0x7f0b0002;
+        public static final int switch1=0x7f0b000c;
+        public static final int textViewTitle=0x7f0b000d;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -80,24 +83,24 @@ public final class R {
         public static final int title_layout=0x7f030006;
     }
     public static final class menu {
-        public static final int main=0x7f090000;
+        public static final int main=0x7f0a0000;
     }
     public static final class raw {
-        public static final int envibus_map=0x7f040000;
+        public static final int envibus_map=0x7f050000;
     }
     public static final class string {
-        public static final int Schedule=0x7f050009;
-        public static final int action_settings=0x7f050002;
-        public static final int app_name=0x7f050001;
-        public static final int button_get_schedule_text=0x7f050008;
-        public static final int fragment_realtime_title_text=0x7f05000a;
-        public static final int fragment_title_text=0x7f050007;
-        public static final int green_light=0x7f050000;
-        public static final int reserved_label_text=0x7f05000b;
-        public static final int title_pager1=0x7f050006;
-        public static final int title_section1=0x7f050003;
-        public static final int title_section2=0x7f050004;
-        public static final int title_section3=0x7f050005;
+        public static final int Schedule=0x7f060009;
+        public static final int action_settings=0x7f060002;
+        public static final int app_name=0x7f060001;
+        public static final int button_get_schedule_text=0x7f060008;
+        public static final int fragment_realtime_title_text=0x7f06000a;
+        public static final int fragment_title_text=0x7f060007;
+        public static final int green_light=0x7f060000;
+        public static final int reserved_label_text=0x7f06000b;
+        public static final int title_pager1=0x7f060006;
+        public static final int title_section1=0x7f060003;
+        public static final int title_section2=0x7f060004;
+        public static final int title_section3=0x7f060005;
     }
     public static final class style {
         /** 
@@ -121,17 +124,17 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f080000;
+        public static final int AppBaseTheme=0x7f090000;
         /**  Application theme. 
          */
-        public static final int AppTheme=0x7f080002;
-        public static final int BasicTextTheme=0x7f080005;
-        public static final int CustomWindowTitleBackground=0x7f080001;
-        public static final int ErrorTextTheme=0x7f080003;
+        public static final int AppTheme=0x7f090002;
+        public static final int BasicTextTheme=0x7f090005;
+        public static final int CustomWindowTitleBackground=0x7f090001;
+        public static final int ErrorTextTheme=0x7f090003;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int JourneyTheme=0x7f080007;
-        public static final int StatusTextTheme=0x7f080004;
-        public static final int StopTextTheme=0x7f080006;
+        public static final int JourneyTheme=0x7f090007;
+        public static final int StatusTextTheme=0x7f090004;
+        public static final int StopTextTheme=0x7f090006;
     }
 }

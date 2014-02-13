@@ -53,7 +53,7 @@ public class FragmentGetRealTime extends Fragment
     {
         final MainActivity A = MainActivity.activity;
                 
-        final List<String> availableStopsName = A.mapLoader.map.getAvailableStopsName();
+        final List<String> availableStopsName = A.map.getAvailableStopsName();        
         
         Spinner stopSpinner = (Spinner) rootView.findViewById(R.id.spinner_stop);
         

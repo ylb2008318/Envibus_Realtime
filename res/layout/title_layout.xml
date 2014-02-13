@@ -16,18 +16,21 @@
         android:adjustViewBounds="true"
         android:contentDescription="Icon"
         android:maxHeight="36dp"
+        android:maxWidth="36dp"
         android:scaleType="centerInside"
         android:src="@drawable/ic_launcher" />
-
+        <!-- 
+        android:layout_marginRight="@dimen/normal_padding"
+        android:maxHeight="36dp"
+        android:maxWidth="36dp"
+         -->
     <ImageView
         android:id="@+id/refreshImage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:layout_marginRight="@dimen/normal_padding"
         android:contentDescription="Refresh Schedule"
-        android:maxHeight="36dp"
         android:scaleType="centerInside"
         android:src="@drawable/ic_action_refresh" />
 

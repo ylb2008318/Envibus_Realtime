@@ -11,9 +11,13 @@
 	<Stop stopId="2126" stopName="AIRE DE BOULES" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="6" stopName="ALBERT CAQUOT" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="7" stopName="ALBERT CAQUOT" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="8" stopName="ALBERT EINSTEIN" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1009" stopName="ALBERT EINSTEIN" longitude="0.0"
@@ -39,16 +43,27 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="2275" stopName="AMIRAL DE GRASSE" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="453" stopName="AMPHORES" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="454" stopName="AMPHORES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="453" stopName="AMPHORES" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="454" stopName="AMPHORES" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="1098" stopName="AMPHORES 2" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1099" stopName="AMPHORES 2" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="2028" stopName="ANEMONES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2451" stopName="ANEMONES" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="15" stopName="ANTHALA" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="1000" stopName="ANTHALA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="15" stopName="ANTHALA" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="1000" stopName="ANTHALA" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="457" stopName="ANTILLES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="458" stopName="ANTILLES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="16" stopName="APOLLINAIRE DESNOS" longitude="0.0"
@@ -57,7 +72,9 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="19" stopName="ATELIERS MUNICIPAUX" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="23" stopName="AUSSEL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="23" stopName="AUSSEL" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="1091" stopName="AUSSEL" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="461" stopName="AUTRICHIENS" longitude="0.0"
 		latitude="0.0"></Stop>
@@ -101,8 +118,12 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="34" stopName="AV. PASTOUR" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2248" stopName="BACHETTES" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="39" stopName="BALZAC" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="40" stopName="BALZAC" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="39" stopName="BALZAC" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="40" stopName="BALZAC" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="207" stopName="BARREAU" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1100" stopName="BARREAU" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1583" stopName="BASTIDE LONGUE" longitude="0.0"
@@ -140,17 +161,27 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="47" stopName="BEAUVALLON" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1075" stopName="BEAUVALLON" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="1585" stopName="BEAUVALLON" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="50" stopName="BEETHOVEN" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="51" stopName="BEETHOVEN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="51" stopName="BEETHOVEN" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="52" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="53" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1124" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1215" stopName="BEL AIR" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="469" stopName="BELUGUES" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="1008" stopName="BELUGUES" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="469" stopName="BELUGUES" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="1008" stopName="BELUGUES" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="57" stopName="BENSA" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1221" stopName="BENSA" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="59" stopName="BIOT 3000" longitude="0.0" latitude="0.0"></Stop>
@@ -188,18 +219,28 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="315" stopName="BOUEE" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1576" stopName="BOUEE" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="316" stopName="BOUILLIDE" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="1007" stopName="BOUILLIDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="316" stopName="BOUILLIDE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="1007" stopName="BOUILLIDE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2024" stopName="BRAMAFAN" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="587" stopName="BREGUIERES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="824" stopName="BREGUIERES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="476" stopName="BRETONS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="477" stopName="BRETONS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="998" stopName="BRIAND" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="2614" stopName="BRIAND" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="2614" stopName="BRIAND" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="1188" stopName="BRICKA" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="351" stopName="BRUCS" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="1112" stopName="BRUCS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="351" stopName="BRUCS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="1112" stopName="BRUCS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="382" stopName="BRUGUET" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="478" stopName="BRUISSES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="881" stopName="BRUSQUETS" longitude="0.0" latitude="0.0"></Stop>
@@ -230,16 +271,22 @@
 	<Stop stopId="492" stopName="CAPUCINES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="493" stopName="CAPUCINES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="494" stopName="CARDOULINES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="495" stopName="CARDOULINES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2481" stopName="CARNOT" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="91" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1005" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1388" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2445" stopName="CARREFOUR ST CLAUDE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="93" stopName="CARRIAT" longitude="0.0" latitude="0.0"></Stop>
@@ -261,10 +308,15 @@
 	<Stop stopId="699" stopName="CENTRE COMMERCIAL" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2637" stopName="CENTRE COMMERCIAL Carrefour"
-		longitude="0.0" latitude="0.0"></Stop>
+		longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2104" stopName="CENTRE HELIO MARIN" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="100" stopName="CERAM" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="100" stopName="CERAM" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="101" stopName="CERAM" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="102" stopName="CES HOPITAL" longitude="0.0"
 		latitude="0.0"></Stop>
@@ -279,7 +331,9 @@
 	<Stop stopId="1122" stopName="CH. DE LA FONTANETTE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="120" stopName="CH. DE LA PIERRE DU DIABLE"
-		longitude="0.0" latitude="0.0"></Stop>
+		longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="357" stopName="CH. DE LA SALIS" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1017" stopName="CH. DE LA SALIS" longitude="0.0"
@@ -359,19 +413,19 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="1079" stopName="CH. DU VAL BOSQUET" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="113" stopName="CHAPELLE DES COMBES" longitude="7.088045"
-		latitude="43.602730">
-	    <itinerary destinationCode="453" lineId="1" />
+	<Stop stopId="113" stopName="CHAPELLE DES COMBES" longitude="0.0"
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
 		<itinerary destinationCode="254" lineId="41" />
 		<itinerary destinationCode="235" lineId="21" />
 	</Stop>
-	<Stop stopId="2634" stopName="CHAPELLE DES COMBES" longitude="7.089099"
-		latitude="43.602840">
-	    <itinerary destinationCode="946" lineId="46" />
-	    <itinerary destinationCode="254" lineId="1" />
-	    <itinerary destinationCode="235" lineId="1" />
-	    <itinerary destinationCode="971" lineId="21" />
-	    <itinerary destinationCode="16" lineId="6" />
+	<Stop stopId="2634" stopName="CHAPELLE DES COMBES" longitude="0.0"
+		latitude="0.0">
+		<itinerary destinationCode="946" lineId="46" />
+		<itinerary destinationCode="254" lineId="1" />
+		<itinerary destinationCode="235" lineId="1" />
+		<itinerary destinationCode="971" lineId="21" />
+		<itinerary destinationCode="16" lineId="6" />
 	</Stop>
 	<Stop stopId="114" stopName="CHAPELLE ST JEAN" longitude="0.0"
 		latitude="0.0"></Stop>
@@ -524,7 +578,9 @@
 	<Stop stopId="520" stopName="COUGOULINS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="176" stopName="COURBET" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1554" stopName="COURCETTES (CG)" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="1555" stopName="COURCETTES (CG)" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1756" stopName="COURMETTES (CG)" longitude="0.0"
@@ -548,9 +604,13 @@
 	<Stop stopId="395" stopName="CROUTON" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1018" stopName="CROUTON" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="184" stopName="DAMES BLANCHES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="185" stopName="DAMES BLANCHES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2475" stopName="DARBOUSSIERES 1" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2476" stopName="DARBOUSSIERES 2" longitude="0.0"
@@ -569,7 +629,9 @@
 	<Stop stopId="1074" stopName="DEUXIEME AVENUE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="999" stopName="DIABLES BLEUS" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="193" stopName="ECOLE DE LA TOUR" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1176" stopName="ECOLE DE LA TOUR" longitude="0.0"
@@ -591,26 +653,40 @@
 	<Stop stopId="2479" stopName="ECOLE ST MARIE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="203" stopName="ECOLE ST MAYMES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="1056" stopName="ECOLE ST MAYMES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="204" stopName="EDEN PARK" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1019" stopName="EDEN PARK" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="206" stopName="EDEN ROC" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="205" stopName="EDEN ROC (TERMINUS DE LA GAROUPE)"
 		longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="161" stopName="EGANAUDE" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="162" stopName="EGANAUDE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="161" stopName="EGANAUDE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="162" stopName="EGANAUDE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2546" stopName="EGLISE DE LA COLLE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1603" stopName="EGLISE STE ANNE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="209" stopName="EGLISE STE JEANNE D'ARC" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="210" stopName="EGLISE STE JEANNE D'ARC" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2544" stopName="EL SOL" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="528" stopName="EMAUX" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="528" stopName="EMAUX" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="211" stopName="EMPEL" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1016" stopName="EMPEL" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="213" stopName="ESPACES DE SOPHIA" longitude="0.0"
@@ -623,7 +699,9 @@
 	<Stop stopId="2115" stopName="ESPERES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1891" stopName="ESPINETS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1952" stopName="ESPINETS" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="624" stopName="ESTEREL" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="624" stopName="ESTEREL" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="625" stopName="ESTEREL" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="537" stopName="EUCALYPTUS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1123" stopName="EUCALYPTUS" longitude="0.0"
@@ -631,7 +709,9 @@
 	<Stop stopId="2057" stopName="EUCALYPTUS" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="538" stopName="EUCALYPTUS (CG)" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="536" stopName="EUCALYPTUS 2" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1058" stopName="EUCALYPTUS 2" longitude="0.0"
@@ -649,7 +729,9 @@
 	<Stop stopId="1034" stopName="FLAUBERT" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="542" stopName="FLEURS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="543" stopName="FLEURS" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="223" stopName="FOCH" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="223" stopName="FOCH" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2235" stopName="FONDATION MAEGHT" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2236" stopName="FONDATION MAEGHT" longitude="0.0"
@@ -674,7 +756,9 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="2234" stopName="FORT CARRE" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="234" stopName="FOURNAS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="234" stopName="FOURNAS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="1094" stopName="FOURNAS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="235" stopName="FOYER LE ROC" longitude="0.0"
 		latitude="0.0"></Stop>
@@ -693,19 +777,29 @@
 	<Stop stopId="1892" stopName="FUMERATES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1971" stopName="FUMERATES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="265" stopName="G. POMPIDOU" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="266" stopName="G. POMPIDOU" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2232" stopName="G. POMPIDOU" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1552" stopName="GABELLE (CG)" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="971" lineId="8" />
+	</Stop>
 	<Stop stopId="1553" stopName="GABELLE (CG)" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="244" stopName="GALION" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1011" stopName="GALION" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="246" stopName="GARBEJAIRE" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="247" stopName="GARBEJAIRE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="246" stopName="GARBEJAIRE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="247" stopName="GARBEJAIRE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="1875" stopName="GARDETTES SINE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1969" stopName="GARDETTES SINE" longitude="0.0"
@@ -727,7 +821,9 @@
 	<Stop stopId="253" stopName="GARE ROUTIERE VALBONNE SOPHIA ANTIPOLIS"
 		longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="254" stopName="GARE ROUTIERE VALBONNE SOPHIA ANTIPOLIS"
-		longitude="0.0" latitude="0.0"></Stop>
+		longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2552" stopName="GARE ROUTIERE VALBONNE SOPHIA ANTIPOLIS"
 		longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2553" stopName="GARE ROUTIERE VALBONNE SOPHIA-ANTIPOLIS"
@@ -853,12 +949,19 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="1713" stopName="IMPINIERS PINS" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="296" stopName="INRIA" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="297" stopName="INRIA" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="296" stopName="INRIA" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="297" stopName="INRIA" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="563" stopName="ISSARDS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1083" stopName="ISSARDS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2437" stopName="ISSARDS" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="298" stopName="IUT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="298" stopName="IUT" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2398" stopName="JARDIN DE L'AMIRAL" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2399" stopName="JARDIN DE L'AMIRAL" longitude="0.0"
@@ -870,9 +973,13 @@
 	<Stop stopId="2160" stopName="JARDIN DES DECADES" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="300" stopName="JARDIN PAULINE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="301" stopName="JARDIN PAULINE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="303" stopName="JEUX DE BOULES" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1036" stopName="JEUX DE BOULES" longitude="0.0"
@@ -994,9 +1101,13 @@
 	<Stop stopId="2307" stopName="LES VERGERS" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="572" stopName="LOGIS ST CLAUDE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="1002" stopName="LOGIS ST CLAUDE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2394" stopName="LOU PARADOU" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2395" stopName="LOU PARADOU" longitude="0.0"
@@ -1011,9 +1122,13 @@
 	<Stop stopId="1653" stopName="LUONA" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1654" stopName="LUONA" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="642" stopName="LYCEE AUDIBERTI" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="643" stopName="LYCEE AUDIBERTI" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2480" stopName="LYCEE BRISTOL" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2500" stopName="LYCEE DE VALBONNE 1" longitude="0.0"
@@ -1127,17 +1242,25 @@
 	<Stop stopId="2142" stopName="NOTRE DAME" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="697" stopName="NOVA ANTIPOLIS" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="1003" stopName="NOVA ANTIPOLIS" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2535" stopName="OFFICE DU TOURISME A" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="632" stopName="OLIVAIE" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="633" stopName="OLIVAIE" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1902" stopName="OLIVIER" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1956" stopName="OLIVIER" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="585" stopName="OLIVIERS" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="586" stopName="OLIVIERS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="585" stopName="OLIVIERS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="586" stopName="OLIVIERS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="1178" stopName="OPIO SAN PEYRE (CG)" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1660" stopName="OPIO SAN PEYRE (CG)" longitude="0.0"
@@ -1183,7 +1306,9 @@
 	<Stop stopId="1189" stopName="PARKING DULYS" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="721" stopName="PASSERELLE SNCF" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="1126" stopName="PASSERELLE SNCF" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2612" stopName="PASSERELLE SNCF" longitude="0.0"
@@ -1225,8 +1350,12 @@
 	<Stop stopId="2138" stopName="PIGNATONS" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="737" stopName="PIMEAU" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1059" stopName="PIMEAU" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="738" stopName="PIN DORE" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="739" stopName="PIN DORE" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="738" stopName="PIN DORE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="739" stopName="PIN DORE" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="742" stopName="PIN MONTARD" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="410" stopName="PIOL" longitude="0.0" latitude="0.0"></Stop>
@@ -1303,8 +1432,12 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="2033" stopName="PONT DU LOUP (CG)" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="792" stopName="PONT DULYS" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="793" stopName="PONT DULYS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="792" stopName="PONT DULYS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="793" stopName="PONT DULYS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="796" stopName="PONT MURATORE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="797" stopName="PONT MURATORE" longitude="0.0"
@@ -1336,8 +1469,12 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="2155" stopName="PRINCES" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2156" stopName="PRINCES" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="417" stopName="PRINTEMPS" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="418" stopName="PRINTEMPS" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="417" stopName="PRINTEMPS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="418" stopName="PRINTEMPS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="822" stopName="PUISSANTON" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="823" stopName="QUATRE CHEMINS" longitude="0.0"
 		latitude="0.0"></Stop>
@@ -1411,10 +1548,16 @@
 	<Stop stopId="1749" stopName="RP DES ARNOUX" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="843" stopName="RP DES CHAPPES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="844" stopName="RP DES CHAPPES" longitude="0.0"
-		latitude="0.0"></Stop>
-	<Stop stopId="853" stopName="RUBAN BLEU" longitude="0.0" latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
+	<Stop stopId="853" stopName="RUBAN BLEU" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="856" stopName="RUE DE LA REPUBLIQUE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="858" stopName="RUE F. MISTRAL" longitude="0.0"
@@ -1455,7 +1598,10 @@
 	<Stop stopId="897" stopName="SOPHIE LAFFITE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="898" stopName="SOPHIE LAFFITE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2272" stopName="SORBIERE" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2273" stopName="SORBIERE" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="899" stopName="SPACE" longitude="0.0" latitude="0.0"></Stop>
@@ -1472,13 +1618,13 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="1746" stopName="SQUARE DE GAULLE" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="1685" stopName="SQUARE DULYS" longitude="7.103423"
-		latitude="43.572294">
+	<Stop stopId="1685" stopName="SQUARE DULYS" longitude="0.0"
+		latitude="0.0">
 		<itinerary destinationCode="453" lineId="1" />
 		<itinerary destinationCode="254" lineId="41" />
 	</Stop>
-	<Stop stopId="2425" stopName="SQUARE DULYS" longitude="7.103651"
-		latitude="43.5722">
+	<Stop stopId="2425" stopName="SQUARE DULYS" longitude="0.0"
+		latitude="0.0">
 		<itinerary destinationCode="235" lineId="1" />
 		<itinerary destinationCode="254" lineId="1" />
 	</Stop>
@@ -1521,7 +1667,9 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="1747" stopName="ST GEORGES" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="877" stopName="ST HONORAT" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="877" stopName="ST HONORAT" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="433" stopName="ST JEAN" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="1023" stopName="ST JEAN" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="879" stopName="ST MAYMES HAUT" longitude="0.0"
@@ -1555,9 +1703,13 @@
 	<Stop stopId="910" stopName="STADE LEON CHABERT" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="912" stopName="STADE NAUTIQUE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="913" stopName="STADE NAUTIQUE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="1936" stopName="STE CLAIRE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1967" stopName="STE CLAIRE" longitude="0.0"
@@ -1565,7 +1717,10 @@
 	<Stop stopId="2229" stopName="STELE NAPOLEON" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="917" stopName="SUPER ANTIBES" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="2511" stopName="SUPER ANTIBES D" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="1901" stopName="TAMARINIERS" longitude="0.0"
@@ -1581,10 +1736,12 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="1093" stopName="TAPIS VERT CLEMENCEAU" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="280" stopName="TEMPLIERS" longitude="7.073901" latitude="43.617373"></Stop>
-	<Stop stopId="609" stopName="TEMPLIERS" longitude="7.073131" latitude="43.616868">
-	    <itinerary destinationCode="453" lineId="1" />
-	    <itinerary destinationCode="643" lineId="41" />
+	<Stop stopId="280" stopName="TEMPLIERS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="609" stopName="TEMPLIERS" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+		<itinerary destinationCode="643" lineId="41" />
 	</Stop>
 	<Stop stopId="2233" stopName="TENNIS COURCETTES" longitude="0.0"
 		latitude="0.0"></Stop>
@@ -1611,8 +1768,12 @@
 		latitude="0.0"></Stop>
 	<Stop stopId="1759" stopName="TRANSFORMATEUR" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="442" stopName="TRIANON" longitude="0.0" latitude="0.0"></Stop>
-	<Stop stopId="443" stopName="TRIANON" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="442" stopName="TRIANON" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
+	<Stop stopId="443" stopName="TRIANON" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2162" stopName="TROIS FEUILLETS" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="937" stopName="USINE ELECTRIQUE" longitude="0.0"
@@ -1653,16 +1814,22 @@
 	<Stop stopId="1962" stopName="VALLON ROUGE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="959" stopName="VALLON VERT" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="1001" stopName="VALLON VERT" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="2113" stopName="VANADE" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2118" stopName="VANADE" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="2123" stopName="VAUGAILLERES" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2124" stopName="VAUGAILLERES" longitude="0.0"
 		latitude="0.0"></Stop>
-	<Stop stopId="962" stopName="VAUTRIN" longitude="0.0" latitude="0.0"></Stop>
+	<Stop stopId="962" stopName="VAUTRIN" longitude="0.0" latitude="0.0">
+		<itinerary destinationCode="453" lineId="1" />
+	</Stop>
 	<Stop stopId="1695" stopName="VAUTRIN" longitude="0.0" latitude="0.0"></Stop>
 	<Stop stopId="964" stopName="VAUTRIN BAS" longitude="0.0"
 		latitude="0.0"></Stop>
@@ -1703,7 +1870,9 @@
 	<Stop stopId="982" stopName="WEISWEILLER" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="2521" stopName="WILSON GABAYE" longitude="0.0"
-		latitude="0.0"></Stop>
+		latitude="0.0">
+		<itinerary destinationCode="254" lineId="1" />
+	</Stop>
 	<Stop stopId="1721" stopName="ZAINE BASSE" longitude="0.0"
 		latitude="0.0"></Stop>
 	<Stop stopId="985" stopName="ZAINE RETENAOU" longitude="0.0"

@@ -6,7 +6,7 @@
     <string name="fragment_title_text">当前位置</string>
     <string name="reserved_label_text"></string>
     <string name="title_pager1">测试标题</string>
-    <string name="title_section1">测试页面</string>
+    <string name="title_section1">实时公交信息</string>
     <string name="title_section2">页面2</string>
     <string name="title_section3">页面3</string>
 

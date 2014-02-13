@@ -6,6 +6,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collections;
+import java.util.Date;
 import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -25,7 +26,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 import org.xml.sax.SAXException;
 
-import com.ylb2008318.envibus_realtime.EnvibusMapLoader.EnvibusItinerary;
+import com.ylb2008318.envibus_realtime.envibus_model.EnvibusItinerary;
 
 import android.os.NetworkOnMainThreadException;
 import android.text.format.DateFormat;
@@ -66,6 +67,7 @@ public class EnvibusGetter
         
         try
         {
+            Date time1 = new Date();
             // Add your data
             HttpClient httpclient = new DefaultHttpClient();
             
@@ -81,7 +83,11 @@ public class EnvibusGetter
             result = new String(EntityUtils.toString(httpEntity).getBytes(),
                     "UTF-16LE");
             result = cleanResponse(result);
-            ret = decodeXmlResponse(result);
+            Date time2 = new Date();
+            ret = decodeXmlScheduleResponse(result);
+            Date time3 = new Date();
+            Log.i("Time count", "Using " + (time2.getTime()-time1.getTime()) + " ms to retrieve");
+            Log.i("Time count", "Using " + (time3.getTime()-time2.getTime()) + " ms to decode");
         }
         catch (NetworkOnMainThreadException e)
         {
@@ -94,6 +100,67 @@ public class EnvibusGetter
         return ret;
     }
     
+    public List<EnvibusItinerary> getAvailableItineraryByStop(List<Integer> iStopIds)
+    {
+        List<EnvibusItinerary> oIti = new ArrayList<EnvibusItinerary>();
+        
+        EnvibusSchedule aSchedule = null;
+        
+        String filterKeys = "";
+        for(int i = 0; i < iStopIds.size(); ++i)
+        {
+            filterKeys += String.valueOf(iStopIds.get(i));
+            if(i != iStopIds.size()-1)
+            {
+                // to form id1$id2$id3
+                filterKeys += "$";
+            }
+        }
+        
+        try
+        {
+            Date time1 = new Date();
+            
+            // Add your data
+            HttpClient httpclient = new DefaultHttpClient();
+            HttpPost httppost = new HttpPost(
+                    "http://envibus.tsi.cityway.fr/CasaSIRIClient/GetLinesByStopIds.aspx?uID="
+                    + uID + "&stopIds=" + filterKeys);
+            
+            Log.d("DEBUG", httppost.getURI().toString());
+            
+            HttpResponse response = httpclient.execute(httppost);
+
+            HttpEntity httpEntity = response.getEntity();
+            result = new String(EntityUtils.toString(httpEntity).getBytes(),
+                    "UTF-16LE");
+            result = cleanResponse(result);
+            Date time2 = new Date();
+            
+            aSchedule = decodeXmlScheduleResponse(result);
+            
+            // Using temp schedule to fill avalable itinerary list
+            for(VehicleJourneyAtStop eS: aSchedule.journeys)
+            {
+                EnvibusItinerary aI = new EnvibusItinerary(eS.stopPoint.id, eS.destination.id, eS.line.id);
+                oIti.add(aI);
+            }
+            Date time3 = new Date();
+            Log.i("Time count", "Using " + (time2.getTime()-time1.getTime()) + " ms to retrieve");
+            Log.i("Time count", "Using " + (time3.getTime()-time2.getTime()) + " ms to decode");
+        }
+        catch (NetworkOnMainThreadException e)
+        {
+            Log.e("ERROR", e.toString());
+        }
+        catch (IOException e)
+        {
+            Log.e("ERROR", e.toString());
+        }
+        return oIti;       
+    }
+    
+    // This function will show only the next bus, but not the 2 nexts
     public EnvibusSchedule getScheduleByStop(List<Integer> iStopIds)
     {
         EnvibusSchedule ret = null;
@@ -110,6 +177,8 @@ public class EnvibusGetter
         
         try
         {
+            Date time1 = new Date();
+            
             // Add your data
             HttpClient httpclient = new DefaultHttpClient();
             
@@ -125,7 +194,12 @@ public class EnvibusGetter
             result = new String(EntityUtils.toString(httpEntity).getBytes(),
                     "UTF-16LE");
             result = cleanResponse(result);
-            ret = decodeXmlResponse(result);
+            Date time2 = new Date();
+            
+            ret = decodeXmlScheduleResponse(result);
+            Date time3 = new Date();
+            Log.i("Time count", "Using " + (time2.getTime()-time1.getTime()) + " ms to retrieve");
+            Log.i("Time count", "Using " + (time3.getTime()-time2.getTime()) + " ms to decode");
         }
         catch (NetworkOnMainThreadException e)
         {
@@ -495,7 +569,7 @@ public class EnvibusGetter
         }
     }
 
-    public EnvibusSchedule decodeXmlResponse(String in) throws IOException
+    public EnvibusSchedule decodeXmlScheduleResponse(String in) throws IOException
     {
         InputStream streamIn = new ByteArrayInputStream(in.getBytes("UTF-16LE"));
         EnvibusSchedule schedule = new EnvibusSchedule();

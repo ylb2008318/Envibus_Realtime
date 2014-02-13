@@ -21,6 +21,9 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.view.Window;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
+import android.view.animation.LinearInterpolator;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -29,7 +32,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.ylb2008318.envibus_realtime.EnvibusGetter.EnvibusSchedule;
-import com.ylb2008318.envibus_realtime.EnvibusMapLoader.EnvibusItinerary;
+import com.ylb2008318.envibus_realtime.envibus_model.EnvibusItinerary;
+import com.ylb2008318.envibus_realtime.envibus_model.EnvibusMap;
 
 public class MainActivity extends FragmentActivity
 {
@@ -51,7 +55,8 @@ public class MainActivity extends FragmentActivity
 
     ScheduleMsgHandler   scheduleMsgHandler;
 
-    EnvibusMapLoader     mapLoader;
+    EnvibusMap           map;
+    EnvibusGetter        envibusGetter;
     
     Spinner              stopSpinner = null; 
     ArrayAdapter<String> stopAdapter = null;
@@ -80,8 +85,9 @@ public class MainActivity extends FragmentActivity
         mViewPager.setAdapter(mSectionsPagerAdapter);
         
         // Read Envibus Configuration
-        mapLoader = new EnvibusMapLoader();
-        mapLoader.parse(getResources().openRawResource(R.raw.envibus_map));
+        map = EnvibusMap.parse(getResources().openRawResource(R.raw.envibus_map));
+        
+        envibusGetter = new EnvibusGetter();
         
         scheduleMsgHandler = new ScheduleMsgHandler();
     }
@@ -91,7 +97,7 @@ public class MainActivity extends FragmentActivity
     private void setTitleBar()
     {
         ImageView refrashImage = (ImageView) findViewById(R.id.refreshImage);
-        
+
         refrashImage.setOnClickListener(new OnClickListener()
         {
             @Override
@@ -201,23 +207,35 @@ public class MainActivity extends FragmentActivity
             Toast.makeText(getApplicationContext(), "Retrieving Envibus Journeys",
                     Toast.LENGTH_SHORT).show();
             
+            
+            getScheduleStatusLock.writeLock().lock();
+            getScheduleStatus = Thread.State.RUNNABLE;
+            
+            ImageView refrashImage = (ImageView) findViewById(R.id.refreshImage);
+            
+            final Animation operatingAnim = AnimationUtils.loadAnimation(this, R.anim.tip);  
+            LinearInterpolator lin = new LinearInterpolator();  
+            operatingAnim.setInterpolator(lin);  
+            
+            if (operatingAnim != null) {  
+                refrashImage.clearAnimation();
+                refrashImage.startAnimation(operatingAnim);
+            }  
             new Thread(new Runnable()
             {
                 @Override
                 public void run()
                 {
-                    List<EnvibusItinerary> iIti = mapLoader.map.getItinerariesByStopName(selectedStopName);
-                    EnvibusSchedule schedule = new EnvibusGetter().getScheduleByItinerary(iIti);
-//                    List<Integer> stopIds = mapLoader.map.getStopIdByStopName(selectedStopName);
-//                    EnvibusSchedule schedule = new EnvibusGetter().getScheduleByStop(stopIds);
+                    List<Integer> stopIds = map.getStopIdByStopName(selectedStopName);
+                    List<EnvibusItinerary> iIti = envibusGetter.getAvailableItineraryByStop(stopIds);
+                    EnvibusSchedule schedule = envibusGetter.getScheduleByItinerary(iIti);
+       
                     Message msg = new Message();
                     msg.obj = schedule;
                     MainActivity.this.scheduleMsgHandler.sendMessage(msg);
                 }
             }).start();
-            
-            getScheduleStatusLock.writeLock().lock();
-            getScheduleStatus = Thread.State.RUNNABLE;
+
         }
         else
         {
@@ -254,6 +272,8 @@ public class MainActivity extends FragmentActivity
             }
 
             getScheduleStatus = Thread.State.TERMINATED;
+            ImageView refrashImage = (ImageView) findViewById(R.id.refreshImage);
+            refrashImage.clearAnimation();
             getScheduleStatusLock.writeLock().unlock();
         }
     };
